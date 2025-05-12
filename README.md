@@ -1,5 +1,5 @@
  -----------------------------
- Disclaimer!
+ ⚠️ Disclaimer 
  -----------------------------
 
  This project is intended solely for educational and ethical testing purposes.
@@ -7,8 +7,8 @@
  All demonstrations and tools provided are designed to promote cybersecurity awareness, responsible hacking practices, and learning in controlled, legal environments.
  Use responsibly and always ensure you have proper authorization.
  
-  -----------------------------
- Enable Monitor Mode + MAC Spoof
+ -----------------------------
+🛠️ Enable Monitor Mode + MAC Spoof
  -----------------------------
  This script sets a wireless adapter into monitor mode
  and assigns a new randomized, locally administered MAC address.
