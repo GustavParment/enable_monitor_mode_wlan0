@@ -6,10 +6,16 @@ Use responsibly and always ensure you have proper authorization.
 
 ---
 
-🛠️ **Enable Monitor Mode + MAC Spoof**  
+🛠️ **Enable Monitor Mode + MAC Spoof**
+
 This script sets a wireless adapter into monitor mode and assigns a new randomized, locally administered MAC address.  
 
 ### 🔧 Usage:
+Clone the repo
+```
+git clone https://github.com/GustavParment/enable_monitor_mode_wlan0.git
+```
+Run the script 
 ```bash
 ./monitor_mode.sh [interface] [channel] [txpower]
 
