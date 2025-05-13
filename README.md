@@ -18,4 +18,8 @@ git clone https://github.com/GustavParment/enable_monitor_mode_wlan0.git
 Run the script 
 ```bash
 ./monitor_mode.sh [interface] [channel] [txpower]
+```
+### 📒 Example:
+sudo ./monitor_mode.sh wlan0 1 20
+
 
